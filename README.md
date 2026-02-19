@@ -1,4 +1,4 @@
-# SLFRS-9-Impairment-Engine-for-Dumbara-Micro-Credit
+# SLFRS 9 Impairment Engine for Dumbara Micro Credit
 Design and Implementation of an SLFRS 9 Impairment Engine for Dumbara Micro Credit
 ![Image](https://github.com/user-attachments/assets/2e66765e-2025-4e25-a53a-114ae6c1ee65)
 
